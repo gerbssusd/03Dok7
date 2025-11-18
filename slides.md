@@ -27,6 +27,8 @@ Title Page
 -->
 
 ---
+layout: center
+---
 
 # Misconception Number One:
 
@@ -272,3 +274,4 @@ Multimedia presentation
 layout: end
 
 ---
+
