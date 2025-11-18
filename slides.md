@@ -56,6 +56,8 @@ class: mt-20 text-center
 </v-click>
 
 ---
+layout: center
+---
 
 # Misconception Number Two:
 
@@ -83,6 +85,8 @@ timeline
 </v-click>
 
 ---
+layout: center
+---
 
 # Misconception Number Three:
 
@@ -109,6 +113,8 @@ layout: two-cols
 </v-click>
 
 ---
+layout: center
+---
 
 # Misconception Number Four:
 
@@ -130,6 +136,8 @@ class: mt-40
 is thinking flexibly and seeing multiple possibilities, approaches, perspecives
 </v-click>
 
+---
+layout: center
 ---
 
 # Misconception Number Five:
@@ -158,6 +166,8 @@ class: mt-40
 </v-click>
 
 ---
+layout: center
+---
 
 # Misconception Number Six:
 
@@ -182,6 +192,8 @@ class: mt-40
 
 </v-click>
 
+---
+layout: center
 ---
 
 # Misconception Number Seven:
@@ -274,4 +286,5 @@ Multimedia presentation
 layout: end
 
 ---
+
 
