@@ -8,7 +8,7 @@ info: |
   ## Karin Hess' Clarification
 
 # apply unocss classes to the current slide
-class: text-center
+
 # https://sli.dev/features/drawing
 drawings:
   persist: false
@@ -270,4 +270,5 @@ Multimedia presentation
 
 ---
 layout: end
+
 ---
