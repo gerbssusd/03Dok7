@@ -62,6 +62,8 @@ layout: center
 # Misconception Number Two:
 
 ---
+layout: center
+---
 
 <v-click hide>
 
@@ -286,5 +288,6 @@ Multimedia presentation
 layout: end
 
 ---
+
 
 
