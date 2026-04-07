@@ -47,7 +47,7 @@ class: mt-20 text-center
 
 ::right::
 
-<v-after>
+<v-click
 
 # All learners benefit from supports;
 <br>
